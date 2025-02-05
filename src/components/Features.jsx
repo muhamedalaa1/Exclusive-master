@@ -25,8 +25,9 @@ const Features = () => {
                 <div className="col-lg-6 ">
                     <div className="row g-2">
                         <div className="col-lg-12 p-0  h-[284px]">
+
                             <div className="rightUpper h-full w-full relative">
-                                 <img className="w-full h-full" src={womenImg} alt="" />
+                                 <img className="w-full h-full" src={womenImg} alt="women img" />
                                 <div className=" text-white absolute bottom-5 left-2 z-[999]">
                                     <h5 className="">Women’s Collections 5</h5>
                                     <p className="font-light w-[55%] my-1">Featured woman collections that give you another vibe.</p>
